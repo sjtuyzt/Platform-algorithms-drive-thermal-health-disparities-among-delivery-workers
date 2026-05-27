@@ -20,7 +20,7 @@ The preprocessing scripts (`PanelPreprocess*.py`) are included for transparency 
 
 ## Included Data and Outputs
 
-- `PanelResults/worker_day_panel.csv`: anonymized worker-day panel used by the Python figure notebooks. The current file contains 52,517 worker-day rows and 1,082 anonymized workers from 2024-11-01 to 2025-11-01.
+- `PanelResults/worker_day_panel.csv`: anonymized worker-day panel used by the Python figure notebooks. The current file contains over 50,000 worker-day rows and 1,082 anonymized workers from 2024-11-01 to 2025-11-01.
 - `PanelResults/dd.dta`: Stata analysis panel used by the regression scripts.
 - `Counterfactual/`: counterfactual inputs and outputs used for Fig. 4.
 - `SI_results/`: CSV outputs used by supplementary figures and tables.
