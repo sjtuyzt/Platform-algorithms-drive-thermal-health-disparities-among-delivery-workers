@@ -1,0 +1,13 @@
+Variables,td,ord
+Unit,Hours,pp
+Climate,-0.332**,-7.222***
+ ,(0.148),(0.888)
+Climate x Tier,0.089,4.049***
+ ,(0.226),(1.525)
+Cash-burning wars (Xtime3),-1.134***,-3.901***
+ ,(0.139),(0.927)
+Controls,Yes,Yes
+Individual FEs,Yes,Yes
+Year-Month FEs,Yes,Yes
+Worker-Day level obs.,45024,45024
+Adj R-squared,0.207,0.282
