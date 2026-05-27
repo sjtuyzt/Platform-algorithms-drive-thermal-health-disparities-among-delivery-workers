@@ -1,0 +1,2 @@
+# Platform-algorithms-drive-thermal-health-disparities-among-delivery-workers
+This replication archive contains the processed data, code, statistical scripts, and figure notebooks used to reproduce analyses of climate exposure, thermal stress, and platform-governed labor among delivery workers in Shanghai and Harbin. An anonymized worker-day panel is provided to reproduce all main figures, tables, and supplementary results.
