@@ -95,13 +95,13 @@ The figure notebooks use the processed panel, Stata outputs, supplementary CSV f
 
 | Output | Primary source |
 | --- | --- |
-| `MainFigures/Fig1a.tiff`, `MainFigures/Fig1b.tiff` | `Plot_Fig1ab.ipynb` |
-| `MainFigures/Fig1c.tiff`, `MainFigures/Fig2d.tiff`, `MainFigures/Fig3c.tiff`, `SI_Figures/FigS7a.tiff` | `Plot_Fig1c2d3c_S7a.ipynb` |
-| `MainFigures/Fig1d.tiff`, `MainFigures/Fig2e.tiff`, `MainFigures/Fig3d.tiff`, `SI_Figures/FigS7b.tiff` | `Plot_Fig1d2e3d_S7b.ipynb` |
-| `MainFigures/Fig2a.tiff`, `MainFigures/Fig2b.tiff`, `MainFigures/Fig2c.tiff` | `Plot_Fig2abc.ipynb` |
+| `MainFigures/Fig1a.tiff` `MainFigures/Fig1b.tiff` | `Plot_Fig1ab.ipynb` |
+| `MainFigures/Fig1c.tiff` `MainFigures/Fig2d.tiff` `MainFigures/Fig3c.tiff`, `SI_Figures/FigS7a.tiff` | `Plot_Fig1c2d3c_S7a.ipynb` |
+| `MainFigures/Fig1d.tiff` `MainFigures/Fig2e.tiff` `MainFigures/Fig3d.tiff` `SI_Figures/FigS7b.tiff` | `Plot_Fig1d2e3d_S7b.ipynb` |
+| `MainFigures/Fig2a.tiff` `MainFigures/Fig2b.tiff` `MainFigures/Fig2c.tiff` | `Plot_Fig2abc.ipynb` |
 | `MainFigures/Fig3a.tiff` | `Plot_Fig3a_risk.ipynb` |
 | `MainFigures/Fig3b.tiff` | `Plot_Fig3b_risk.ipynb` |
-| `MainFigures/Fig4a.tiff`, `MainFigures/Fig4b.tif` | `Plot_Fig4.ipynb` |
+| `MainFigures/Fig4a.tiff` `MainFigures/Fig4b.tif` | `Plot_Fig4.ipynb` |
 | `SI_Figures/FigS1.tiff` to `SI_Figures/FigS6.tiff` | `Plot_FigS1.ipynb` to `Plot_FigS6.ipynb` |
 | `SI_results/TableS5.csv` | `Statistic_TableS5.do` |
 | `SI_results/TableS6.csv` | `Statistic_TableS6.do` |
