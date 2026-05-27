@@ -1,0 +1,14 @@
+# Minimal Python environment inferred from scripts and notebooks.
+# Stata 16+ and the Stata package reghdfe are external dependencies.
+jupyter
+matplotlib
+numba
+numpy
+openpyxl
+pandas
+pwlf
+requests
+scikit-learn
+scipy
+seaborn
+statsmodels
